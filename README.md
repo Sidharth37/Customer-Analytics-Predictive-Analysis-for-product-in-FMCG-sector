@@ -23,6 +23,11 @@ Once we have the clusters formed, the next stage is targeting, since it is out o
 <b>Positioning -</b><br>
 In this phase we will answer question related to product type purchase probability, brand purchase probability and purchase quanitity.<br> 
 <b>This phase is carried out in 2 parts:</b><br>
-i  Exploratory data analysis
-ii Modeling
+i  Exploratory data analysis<br>
+ii Modeling<br>
+
+<b>Exploratory data analysis -</b><br>
+In this stage we try to understand the customer base belonging to each segment, the average number of store visits a customer from each segment makes, the average number of purchases belonging to the product type of interest a customer makes, the average purchase quantity a customer of each of these segments make.<br>
+The next stage is to the correlation of customer segments to buying a paritcular brand, this tells us the affinity certain segments have towards certain brands.
+After this we explore the revenue each segment makes for each of the particular brand. To sum up everything the we start to understand the choices made by customers of various segments, at the same time we understand the segments which contribute heavily to each individual brand.<br><br> 
 
