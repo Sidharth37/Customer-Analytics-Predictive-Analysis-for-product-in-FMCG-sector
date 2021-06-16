@@ -19,5 +19,10 @@ b. Cluster 1 - Career Driven individuals<br>
 c. Cluster 2 - Standard individuals<br>
 d. Cluster 3 - Well off individuals<br>
 
-Once we have the   
+Once we have the clusters formed, the next stage is targeting, since it is out of scope for this project, we will move on to positioning.<br><br>
+<b>Positioning -</b><br>
+In this phase we will answer question related to product type purchase probability, brand purchase probability and purchase quanitity.<br> 
+<b>This phase is carried out in 2 parts:</b><br>
+i  Exploratory data analysis
+ii Modeling
 
