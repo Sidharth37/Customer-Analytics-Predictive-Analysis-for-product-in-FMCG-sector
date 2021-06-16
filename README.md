@@ -5,7 +5,7 @@ The main aim of the project is to identify key price points in the market, defin
 A full scaled project of this type is divided into 3 phases<br>
 1. Segmentation
 2. Targeting
-3. Position <br>
+3. Position <br><br>
 We will be focusing on the segmentation and positioning part of it. Targeting is something that would require you to focus on the no quantitative part of the exercise, and is beyond the scope of the project.<br>
 <b>Segmentation -</b>
 The main aim of this phase to derive distinctive consumer segments. Consumers in a particular segments are supposed to be as similar to each other as possible, where as consumers in different segments need to be as different as possible. We will carry out the segmentation exercise based on customer demographic information - sex, marital status, age, education, income, occupation and settlement size.<br>
