@@ -11,6 +11,13 @@ We will be focusing on the segmentation and positioning part of it. Targeting is
 <b>Segmentation -</b>
 The main aim of this phase to derive distinctive consumer segments. Consumers in a particular segments are supposed to be as similar to each other as possible, where as consumers in different segments need to be as different as possible. We will carry out the segmentation exercise based on customer demographic information - sex, marital status, age, education, income, occupation and settlement size.<br>
 After the inital exploratory data analysis, we start by pre processing data to get rid of biases of scales and measurements. A quick hierarchical clustering is the most effective way to find out the tentative numbers of clusters we could expect to see, in our case this comes out to be 4.<br>
-Once we have this approximation, we start with k-means clustering. The 1st step is to calculate WCSS(within cluster sum of squared distances) in the range around the approximation. The number of clusters should have based on WCSS comes out to be in agreement with the earlier value of 4 we had approximated. At this stage we start with the actual clustering
+Once we have this approximation, we start with k-means clustering. The 1st step is to calculate WCSS(within cluster sum of squared distances) in the range around the approximation. The number of clusters should have based on WCSS comes out to be in agreement with the earlier value of 4 we had approximated. At this stage we start with the actual clustering. At this stage we move on to looking at the seperation between clusters, to verify that there isn't an overlap. Based on statistical analysis and visualization we see that there is some amount of seperation, with some scope for improvement.<br>
+At this stage, we go back to origanl preprocessed data, an implement PCA(Principal Component Analysis). After this we go through a similar series of steps as we had executed earlier and reach to astage where we have 4 clusters with the seperation we were aspiring for.<br>
+Based on the variable distribution of each principal component and the correlation with the 3 principal components we have chosen the 4 clusters we get are - <br>
+a. Cluster 0 - Struggling individuals<br>
+b. Cluster 1 - Career Driven individuals<br> 
+c. Cluster 2 - Standard individuals<br>
+d. Cluster 3 - Well off individuals<br>
 
+Once we have the   
 
